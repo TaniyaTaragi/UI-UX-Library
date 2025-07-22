@@ -132,5 +132,10 @@ Visit the package here: [NPM – gridguru](https://www.npmjs.com/package/gridgur
 
 ---
 
+## 📌 GitHub Repository
+
+👉 [https://github.com/yashbisht077/UI-UX-Library](https://github.com/yashbisht077/UI-UX-Library)
+
+---
 
 > ⚡ Feel free to fork, contribute, or open issues to help improve the library!
